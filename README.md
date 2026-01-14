@@ -59,4 +59,4 @@ The project follows a structured analytical workflow:
 4. Creation of reusable analytical views
 5. Interactive visualization and insight generation in Power BI
 
-![Risk & Delinquency Analysis](images/loan_dashboard-1.png)
+![Risk & Delinquency Analysis](images/loan_dashboard-3.png)
