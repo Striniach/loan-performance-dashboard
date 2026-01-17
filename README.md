@@ -28,7 +28,7 @@ to simulate a realistic relational data model and enable join-based analysis.
 
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](images/loan_dashboard-1.png)
+![Dashboard Preview](images/View1.png)
 
 ## 📈 Key Metrics
 - Total number of loans
@@ -59,4 +59,4 @@ The project follows a structured analytical workflow:
 4. Creation of reusable analytical views
 5. Interactive visualization and insight generation in Power BI
 
-![Risk & Delinquency Analysis](images/loan_dashboard-3.png)
+![](images/View2.png)
