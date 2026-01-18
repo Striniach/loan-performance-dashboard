@@ -1,6 +1,6 @@
 # Loan Portfolio Risk Analysis Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project presents an exploratory analysis and an interactive dashboard
 focused on loan performance and credit risk assessment.
 
@@ -9,7 +9,7 @@ The objective is to analyze:
 - Delinquency and recovery patterns
 - Risk distribution across countries and borrower profiles
 
-## 🗄 Data Pipeline & SQL Analysis
+## Data Pipeline & SQL Analysis
 The analysis is based on a relational database built in **PostgreSQL**.
 
 The workflow includes:
@@ -27,23 +27,23 @@ Note: Some borrower attributes (e.g. country) were synthetically generated
 to simulate a realistic relational data model and enable join-based analysis.
 
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 ![Dashboard Preview](images/View1.png)
 
-## 📈 Key Metrics
+## Key Metrics
 - Total number of loans
 - Non-Performing Loan (NPL) ratio
 - Average borrower age
 - Total loan amount
 
-## 🔍 Analysis Dimensions
+## Analysis Dimensions
 The dashboard allows slicing and filtering by:
 - Loan status
 - Country
 - Education level
 - Gender
 
-## 🛠 Tools & Skills
+## Tools & Skills
 - **PostgreSQL** (database design & querying)
 - **SQL** (data cleaning, joins, views, aggregations)
 - **DBeaver** (database management)
@@ -51,7 +51,7 @@ The dashboard allows slicing and filtering by:
 - Credit risk & loan portfolio analysis
 - Data visualization & storytelling
 
-## 🧠 Analytical Approach
+## Analytical Approach
 The project follows a structured analytical workflow:
 1. Raw data ingestion and validation
 2. Data cleaning and transformation using SQL
